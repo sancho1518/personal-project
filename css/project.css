@@ -1,0 +1,87 @@
+form{
+	border: 1px solid;
+	border-radius: 10px;
+	margin-right: 20px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: yellow;
+}
+
+.sadiq{
+	font-family: decorative;
+}
+
+.navbar-head{
+	background-color: yellow;
+}
+.started{
+	color: black;
+}
+
+.form-group{
+	width: 370px;
+	color: black;
+}
+
+
+.jumbotron{
+	padding-bottom: 100px;
+	background-size: cover;
+	border-top:transparent;
+	margin: 0px;
+	color: #ffff;
+	height: 600px;
+}
+
+
+.thumbnail{
+	margin-top: 50px;
+	border:none;
+
+}
+
+
+.head{
+	color: black;
+	font-family: decorative;
+}
+
+
+.cart{
+	height: 20px;
+	width: 200px;
+	background-color: black;
+	color: #fff;
+	font-size: 1.1rem;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
+
+.footer{
+	background-color: yellow;
+	height: 50px;
+	margin-bottom: 10px;
+	color: white;
+	margin-top: 50px;
+}
+
+.open{
+	color: black;
+}
+
+.submit{
+	background-color: blue;
+	color: white;
+
+}
+
+.type-me{
+	color: blue;
+	float: right;
+	padding-right: 15px;
+}
+
+
